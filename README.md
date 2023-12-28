@@ -1,4 +1,4 @@
-#Rename Thousands of files of any type in a folder as per your desired prefixes or postfixes with the ability to add current date of modificaiton
+# Rename Thousands of files of any type in a folder as per your desired prefixes or postfixes with the ability to add current date of modificaiton
 
 - This is a GUI based application
 - It takes the input as the path of the destination folder with the files grouping in them
